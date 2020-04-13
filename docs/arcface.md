@@ -5,7 +5,8 @@ title: "ArcFace: Additive Angular Margin Loss for Deep Face Recognition."
 link_url: https://arxiv.org/abs/1801.07698
 ---
 
-- 얼굴 인식 관련 논문이지만 얼굴 인식 내용을 다루려고 하는 것은 아니다.
+- 작업중
+<!-- - 얼굴 인식 관련 논문이지만 얼굴 인식 내용을 다루려고 하는 것은 아니다.
 - Softmax 함수를 대체하기 위한 새로운 Loss 함수를 살펴보도록 하자.
    - Metric Learning 을 위해 Euclidean 방식의 Loss 를 Augular 기반의 Loss 로 변경
 
@@ -179,4 +180,4 @@ $$L = - \frac{1}{N} \sum_{i=1}^N \log{\left(\frac{ e^{s(\cos{(m_1 \theta_{y_i}+m
 
 ![Table.4]({{ site.baseurl }}/images/{{ page.group }}/t04.png){:class="center-block" height="400" }
 
-![Table.5]({{ site.baseurl }}/images/{{ page.group }}/t05.png){:class="center-block" height="280" }
+![Table.5]({{ site.baseurl }}/images/{{ page.group }}/t05.png){:class="center-block" height="280" } -->
