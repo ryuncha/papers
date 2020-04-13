@@ -1,0 +1,21 @@
+# Site settings
+title: PAPER
+
+email: "ryunx21@gmail.com"
+url: "http://ryuncha.github.io"
+github_url: "http://github.com/ryuncha/pgoc"
+github_editurl: "/blob/gh-pages"
+github_profile: "http://github.com/ryuncha"
+baseurl: "/papers"
+disqus_shortname: ryuncha-github-io
+
+exclude:
+  - README.md
+  - _site
+  
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
