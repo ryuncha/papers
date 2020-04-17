@@ -28,7 +28,7 @@ _word_
 URL 삽입
 {% endcomment %}
 
-http://exaple.com
+http://example.com
 
 [Link](http://example.com)
 
