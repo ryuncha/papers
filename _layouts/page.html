@@ -13,7 +13,9 @@ layout: default
     <h1 class="text-left">{{ page.title }}</h1>
   </header>
   <hr class="title">
-  <h4 class="text-right"><a href="{{ page.link_url }}" target="_blank">{{ page.link_url }}</a></h4>  
+  <h5 class="text-right"><a href="{{ page.link_url }}" target="_blank">{{ page.link_url }}</a></h6>  
+  <p class="text-right">{{ page.date }}</p>
+  <p class="text-right">{{ page.comments }}</p>
   <article>
     {{ content }}
   </article>
